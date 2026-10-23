@@ -16,7 +16,9 @@
 *An interactive Power BI report for analyzing e-commerce sales, orders, customer and seller locations, payment methods, and customer reviews.*
 
 ---
-
+## Project File
+https://drive.google.com/file/d/1lNkXufuiPA-GE0a1rzxEsDMuLnw8rEa4/view
+---
 ## 📖 Project Overview
 
 The **Olist E-Commerce Analytics Dashboard** is a Power BI data analytics project designed to explore Brazilian e-commerce order data. It transforms data from multiple CSV tables into an interactive report for analyzing sales performance, geographic distribution, payment methods, and customer satisfaction.
