@@ -31,6 +31,21 @@ The report contains three analytical pages:
 
 ---
 
+# 🎥 Project Demo Video
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1vIoU8WCL5t1Iv4XKsmdlf4kcYmqpj_1p/view" target="_blank">
+
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+</a>
+
+</p>
+
+> 📺 Click the button above to watch the complete project demonstration and SQL explanation video.
+---
+
 ## 🎯 Project Objectives
 
 - Import Olist CSV datasets into Power BI.
@@ -214,7 +229,39 @@ The report follows a consistent design across all three pages.
 - Interactive visual filtering and date hierarchy drill-down.
 
 ---
+# 📸 Project Output
 
+## Home Page
+
+<p align="center">
+  <img src="Database.png" width="900" alt="Database">
+</p>
+
+---
+
+## Sales Overview
+
+<p align="center">
+  <img src="Database.png" width="900" alt="Database">
+</p>
+
+---
+
+## Geographic Analysis
+
+<p align="center">
+  <img src="Database.png" width="900" alt="Database">
+</p>
+
+---
+
+## Payments & Reviews
+
+<p align="center">
+  <img src="Database.png" width="900" alt="Database">
+</p>
+
+---
 ## 🚀 How to Open the Report
 
 1. Install **Microsoft Power BI Desktop**.
