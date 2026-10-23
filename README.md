@@ -250,7 +250,7 @@ The report follows a consistent design across all three pages.
 ## Geographic Analysis
 
 <p align="center">
-  <img src="Geopraphic.png" width="900" alt="Database">
+  <img src="Geopraphic .png" width="900" alt="Database">
 </p>
 
 ---
@@ -258,7 +258,7 @@ The report follows a consistent design across all three pages.
 ## Payments & Reviews
 
 <p align="center">
-  <img src="Payment.png" width="900" alt="Database">
+  <img src="Payment .png" width="900" alt="Database">
 </p>
 
 ---
