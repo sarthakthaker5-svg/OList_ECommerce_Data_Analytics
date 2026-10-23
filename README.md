@@ -161,6 +161,12 @@ A date hierarchy supports drill-down from Year to Quarter to Month.
 
 This page provides an overview of order and sales performance.
 
+**Slicers**
+
+- Year
+- Order Status
+- Product Category
+
 **KPI Cards**
 
 - Total Orders
@@ -172,14 +178,6 @@ This page provides an overview of order and sales performance.
 
 - **Top 10 Product Categories by Revenue:** Clustered Bar Chart.
 - **Monthly Order Volume:** Line Chart with date hierarchy drill-down.
-- **Orders by Customer State:** Map visual.
-- **Revenue by Year and Product Category:** Matrix.
-
-**Slicers**
-
-- Year
-- Order Status
-- Product Category
 
 ### 🌎 Page 2 — Geographic Analysis
 
